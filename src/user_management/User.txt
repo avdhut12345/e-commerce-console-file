@@ -1,0 +1,4 @@
+Pen,10,5rs
+Book,10,5rs
+Shorpener,10,5rs
+Notebook,10,5rs
